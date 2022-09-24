@@ -1,1 +1,1 @@
-# Demos
+# Demos Kratos
